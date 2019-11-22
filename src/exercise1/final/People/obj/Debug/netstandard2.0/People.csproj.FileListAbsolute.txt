@@ -1,0 +1,11 @@
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\bin\Debug\netstandard2.0\People.deps.json
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\bin\Debug\netstandard2.0\People.dll
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\bin\Debug\netstandard2.0\People.pdb
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\XamlC.stamp
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\People.dll
+D:\GITHUBUPDATAS\storeDATA\src\exercise1\final\People\obj\Debug\netstandard2.0\People.pdb
